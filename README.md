@@ -28,4 +28,7 @@ pip install beautifulsoup4
 ```
 
 ## Executing
-The basic lbp_test.py file requires the following command to run from the terminal
+The basic lbp_test.py file requires the following command to run from the terminal is
+```bash
+python lbp_test.py
+```
